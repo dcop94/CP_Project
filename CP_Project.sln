@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BR31", "BR31\BR31.vcxproj", "{51256686-03DF-461B-821B-27A4EA0572FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimeAttack", "TimeAttack\TimeAttack.vcxproj", "{B09940AD-E61B-4EF9-8330-4B133EA56571}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{51256686-03DF-461B-821B-27A4EA0572FC}.Release|x64.Build.0 = Release|x64
 		{51256686-03DF-461B-821B-27A4EA0572FC}.Release|x86.ActiveCfg = Release|Win32
 		{51256686-03DF-461B-821B-27A4EA0572FC}.Release|x86.Build.0 = Release|Win32
+		{B09940AD-E61B-4EF9-8330-4B133EA56571}.Debug|x64.ActiveCfg = Debug|x64
+		{B09940AD-E61B-4EF9-8330-4B133EA56571}.Debug|x64.Build.0 = Debug|x64
+		{B09940AD-E61B-4EF9-8330-4B133EA56571}.Debug|x86.ActiveCfg = Debug|Win32
+		{B09940AD-E61B-4EF9-8330-4B133EA56571}.Debug|x86.Build.0 = Debug|Win32
+		{B09940AD-E61B-4EF9-8330-4B133EA56571}.Release|x64.ActiveCfg = Release|x64
+		{B09940AD-E61B-4EF9-8330-4B133EA56571}.Release|x64.Build.0 = Release|x64
+		{B09940AD-E61B-4EF9-8330-4B133EA56571}.Release|x86.ActiveCfg = Release|Win32
+		{B09940AD-E61B-4EF9-8330-4B133EA56571}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
