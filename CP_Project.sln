@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SquareNum", "SquareNum\Squa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Baseball_game", "Baseball_game\Baseball_game.vcxproj", "{BA9CF31B-2BE4-44F4-BE2B-5DEB5089C7CB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator", "Calculator\Calculator.vcxproj", "{5BEEC7A7-C1B7-48E0-AE13-D9B833EFF153}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{BA9CF31B-2BE4-44F4-BE2B-5DEB5089C7CB}.Release|x64.Build.0 = Release|x64
 		{BA9CF31B-2BE4-44F4-BE2B-5DEB5089C7CB}.Release|x86.ActiveCfg = Release|Win32
 		{BA9CF31B-2BE4-44F4-BE2B-5DEB5089C7CB}.Release|x86.Build.0 = Release|Win32
+		{5BEEC7A7-C1B7-48E0-AE13-D9B833EFF153}.Debug|x64.ActiveCfg = Debug|x64
+		{5BEEC7A7-C1B7-48E0-AE13-D9B833EFF153}.Debug|x64.Build.0 = Debug|x64
+		{5BEEC7A7-C1B7-48E0-AE13-D9B833EFF153}.Debug|x86.ActiveCfg = Debug|Win32
+		{5BEEC7A7-C1B7-48E0-AE13-D9B833EFF153}.Debug|x86.Build.0 = Debug|Win32
+		{5BEEC7A7-C1B7-48E0-AE13-D9B833EFF153}.Release|x64.ActiveCfg = Release|x64
+		{5BEEC7A7-C1B7-48E0-AE13-D9B833EFF153}.Release|x64.Build.0 = Release|x64
+		{5BEEC7A7-C1B7-48E0-AE13-D9B833EFF153}.Release|x86.ActiveCfg = Release|Win32
+		{5BEEC7A7-C1B7-48E0-AE13-D9B833EFF153}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
